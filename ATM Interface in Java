@@ -1,0 +1,16 @@
+🏧 ATM Interface in Java – #CodSoft Internship Project
+
+As part of my virtual internship at #CodSoft, I built an ATM Interface using core Java concepts. This project simulates basic ATM operations with a simple and intuitive console-based UI.
+
+Key Features:
+🔹 Withdraw, Deposit, and Check Balance options
+🔹 Separate classes for the ATM and Bank Account
+🔹 Methods like withdraw(amount), deposit(amount), and checkBalance()
+🔹 Input validation to handle insufficient funds or invalid entries
+🔹 User-friendly messages for successful and failed transactions
+
+This project helped reinforce my understanding of OOP in Java, method design, and interactive user input handling.
+
+Excited to keep learning and building more! 💻✨
+
+#Java #ATMProject #CodSoft #Internship #OOP #Coding #TechJourney
